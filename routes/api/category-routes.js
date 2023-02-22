@@ -30,7 +30,7 @@ router.get('/:id', async (req, res) => {
 
     res.status(200).json(categoryData);
   } catch {
-    res.status(500) .json(err);
+    res.status(500).json(err);
   }
   // find one category by its `id` value
   // be sure to include its associated Products
@@ -77,7 +77,7 @@ router.delete('/:id', async (req, res) => {
     });
     
     if (!categoryData) {
-      res.json(404).json({ message: 'No category with this ID found.' })
+      res.status(404).json({ message: 'No category with this ID found.' })
       return;
     }
 
