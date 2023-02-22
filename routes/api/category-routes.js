@@ -56,8 +56,8 @@ router.put('/:id', async (req, res) => {
       {
         where: {
           id: req.params.id
-        }
-      }
+        },
+      },
     )
     res.status(200).json(categoryData)
 
