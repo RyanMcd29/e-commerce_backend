@@ -19,7 +19,7 @@ This application is an example back-end for a e-commerce website. This app takes
 
 
 ## Installation
-Make a clone using this link: git@github.com:RyanMcd29/e-commerce_backend.git
+Make a clone using this link: [git@github.com:RyanMcd29/e-commerce_backend.git](git@github.com:RyanMcd29/e-commerce_backend.git)
 
 Navigate to directory using gitBash/terminal. 
 
