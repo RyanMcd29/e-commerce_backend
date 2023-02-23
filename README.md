@@ -1,4 +1,4 @@
-# E-Commerce Backend ![](https://img.shields.io/badge/License-MIT-2ea44f)
+# Online Retail Store Backend ![](https://img.shields.io/badge/License-MIT-2ea44f)
 
 ![Screenshot of response](Assets/e-commerceBE.jpg)
 
